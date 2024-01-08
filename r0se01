@@ -1,4 +1,4 @@
-r0se 03
+r0se 04
 cd $HOME
 mkdir .sui
 mv $HOME/sui/fullnode.yaml $HOME/.sui/
